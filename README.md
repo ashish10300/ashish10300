@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **- Full-Stack Web Development using MERN technologies**
 
-- 💬 Ask me about **- ask me about stranger things**
+- 💬 Ask me about **-  Stranger Things**
 
 - 📫 How to reach me **dasashish1030@gmail.com**
 
